@@ -31,7 +31,7 @@ This repo is designed as a portfolio project to showcase my ability to handle **
 ---
 
 ## 📄 Deliverables
-- 📑 [Full PDF Report](reports/Statistical-Analysis-Cancer-Dataset.pdf)  
+- 📑 [Full PDF Report](reports/)  
 - 💻 [Source Code (R)](src/)  
 - 📊 [Excel Dataset](data/)  
 
